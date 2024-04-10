@@ -24,6 +24,22 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![Screenshot 2024-04-08 113449](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/5643657a-3b69-43d9-90a5-030faa7f1d42)
+![Screenshot 2024-04-08 113601](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/0be24a42-18c1-4f16-9f87-1a43a3b952db)
+![Screenshot 2024-04-08 113631](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/8e3c6493-cde6-47ed-ac9f-6e5eed76b83c)
+![Screenshot 2024-04-08 113701](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/b292f912-d22e-43e3-9cfd-b620fb3ccdb0)
+![Screenshot 2024-04-08 113723](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/c52db733-67d4-4f00-ab4a-69598da8ad4e)
+![Screenshot 2024-04-08 113742](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/610b3e49-b703-4cfe-a9ce-1607b1431fa5)
+![Screenshot 2024-04-08 113818](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/38631931-6bd8-49d5-909e-a0d44f98a60a)
+![Screenshot 2024-04-08 113923](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/80154590-5a1b-4dd7-95e4-8582c926bd13)
+![Screenshot 2024-04-08 114051](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/97655538-717a-4870-893a-039802c09959)
+![Screenshot 2024-04-08 114116](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/187c0bba-3776-45b3-bf87-d4d2a50a252e)
+![Screenshot 2024-04-08 114140](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/ba7bb12c-ea69-4e42-af20-48416377484a)
+![Screenshot 2024-04-08 114206](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/16cbbd6f-f2a1-4cb6-90b5-9dfa36d52986)
+![Screenshot 2024-04-08 114257](https://github.com/DurgaV240106/EXNO-4-DS/assets/144870878/9a26b885-0827-4e8f-b509-37b10bd8bbeb)
+
+
+       
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus  perform Feature Scaling and Feature Selection process and save the
+data to a file successfully.      
